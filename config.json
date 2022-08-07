@@ -1,6 +1,6 @@
 {
-	"ip":"7T_me_.aternos.me",
+	"ip":"boxerdoodle.aternos.host",
 	"port": "17815",
 	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
